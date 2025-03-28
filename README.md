@@ -1,4 +1,4 @@
-# 🚀 Page Replacement Algorithm Simulator
+#  Page Replacement Algorithm Simulator
 
 ## **Project Overview**
 ⸻
