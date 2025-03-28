@@ -50,6 +50,7 @@ pip install matplotlib
 # Note: tkinter typically comes pre-installed with Python
 
 How to Run
+
 python page_replacement_simulator.py
 
 Usage Instructions
@@ -74,9 +75,13 @@ Computer Systems: A Programmer's Perspective
 Contributing
 
 Fork the repository
+
 Create your feature branch (git checkout -b feature/AmazingFeature)
+
 Commit your changes (git commit -m 'Add some AmazingFeature')
+
 Push to the branch (git push origin feature/AmazingFeature)
+
 Open a Pull Request
 
 License
