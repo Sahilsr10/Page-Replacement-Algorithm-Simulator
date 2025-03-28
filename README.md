@@ -45,11 +45,13 @@ Python 3.x
 tkinter
 matplotlib
 
-bashCopy# Install dependencies
+# Install dependencies
 pip install matplotlib
 # Note: tkinter typically comes pre-installed with Python
+
 How to Run
-bashCopypython page_replacement_simulator.py
+python page_replacement_simulator.py
+
 Usage Instructions
 
 Enter page reference string (space-separated integers)
